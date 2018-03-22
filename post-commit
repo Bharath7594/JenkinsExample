@@ -1,0 +1,3 @@
+#!/bin/sh
+curl --user Bharath:4c23af1eb729b53bb3de4248ac0c2717  http://localhost:8080/job/Packaging/build?token=abcd1234
+ echo "jenkins from an external script"
